@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -Xa -mp
+ls -ampX
