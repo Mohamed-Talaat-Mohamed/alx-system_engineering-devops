@@ -1,1 +1,1 @@
-this README.md to describe what each script is doing
+echo "This README to describe what each script is doing"
