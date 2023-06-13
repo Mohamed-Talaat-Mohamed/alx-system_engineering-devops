@@ -1,2 +1,1 @@
-#!/bin/bash
-this repo is to solve task 0x00.shell.basics
+echo "This repo is to bractesing on shell-bash tasks"
